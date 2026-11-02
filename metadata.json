@@ -1,0 +1,6 @@
+{
+  "name": "Industry Insight - 제조 산업 취업 인사이트",
+  "description": "자동차, 중공업, 철강 산업 취업 준비생을 위한 실전 산업 동향, 기업 뉴스, 직무 연결 및 면접 인사이트 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
